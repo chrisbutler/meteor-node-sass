@@ -2,7 +2,7 @@ Package.describe({
   summary: "Node-sass is a library that provides binding for Node.js to libsass, the C version of the popular stylesheet preprocessor, Sass.",
   version: '3.2.0',
   name: "chrisbutler:node-sass",
-  git: "https://github.com/SachaG/meteor-juice.git"
+  git: "https://github.com/chrisbutler/meteor-node-sass"
 });
 
 Npm.depends({
